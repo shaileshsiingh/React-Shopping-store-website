@@ -148,7 +148,7 @@ const DetailsPage = () => {
                     dispatch({ type: "ADD_ITEM", payload: currentProduct })
                   }
                 >
-                  Add to card
+                  Add to cart
                 </Button>
               )}
             </CardActions>
